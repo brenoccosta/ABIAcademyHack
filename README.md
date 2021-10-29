@@ -6,7 +6,7 @@ O projeto consiste na elaboração de um algoritmo para venda cruzada e venda ad
 
 Neste projeto foi feito uma análise exploratória acerca dos dados para determinar quais variáveis seriam importantes para a criação de um filtro duplo colaborativo e de conteúdo,  um estudo para entendimento do consumo dos clientes, a clusterização dos mesmos baseada em um dataset auxiliar criado a partir do fornecido a fim de mostrar o processo para realizar uma recomendação.
 
-[Link da Apresentação](https://pucc365-my.sharepoint.com/:p:/r/personal/joao_rcj_puccampinas_edu_br/_layouts/15/Doc.aspx?sourcedoc=%7BE1209492-03B5-4C4A-80B1-E99852184A76%7D&file=Apresentação1.pptx&wdOrigin=OFFICECOM-WEB.START.REC&ct=1635270392942&action=edit&mobileredirect=true&cid=622223a8-43b9-4f3c-84f6-76ea72d60894)
+[Link da Apresentação](https://github.com/brenoccosta/ABIAcademyHack/blob/main/ApresentaçãoPrototipação.pdf)
 
 ## Problema
 
@@ -36,6 +36,13 @@ Para executar o código é necessário um ambiente computacional com suporte a P
 
 Para executar o código é necessário baixar o código inserir em um ambiente computacional com suporte a Python em blocos, como Jupyter notebook, importar as bibliotecas especificadas nos Pré Requisitos e executar o código.
 
+
+
 ## Time
 
-| [<img src="https://avatars.githubusercontent.com/u/59942047?v=4" width="115"><br><sub>@brenoccosta</sub>](https://https://github.com/brenoccosta) | [<img src="https://avatars.githubusercontent.com/u/86086126?v=4" width="115"><br><sub>@JrCrespi</sub>](https://https://github.com/JrCrespi) |
+| <img src="https://avatars.githubusercontent.com/u/59942047?v=4" width="115"> | <img src="https://avatars.githubusercontent.com/u/86086126?v=4" width="115"> |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| [<sub>@brenoccosta</sub>](https://https://github.com/brenoccosta) | [<sub>@JrCrespi</sub>](https://https://github.com/JrCrespi)  |
+
+
+
