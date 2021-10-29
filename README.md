@@ -42,7 +42,7 @@ Para executar o código é necessário baixar o código inserir em um ambiente c
 
 | <img src="https://avatars.githubusercontent.com/u/59942047?v=4" width="115"> | <img src="https://avatars.githubusercontent.com/u/86086126?v=4" width="115"> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| [<sub>@brenoccosta</sub>](https://https://github.com/brenoccosta) | [<sub>@JrCrespi</sub>](https://https://github.com/JrCrespi)  |
+| [<sub>@brenoccosta</sub>](https://www.github.com/brenoccosta) |   [<sub>@JrCrespi</sub>](https://www.github.com/JrCrespi)    |
 
 
 
